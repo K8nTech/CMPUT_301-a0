@@ -1,11 +1,13 @@
 # CMPUT 301: Assignment 0
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Katelyn Ho
+- **CCID:** kmho
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+- https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app
 
+- https://developer.android.com/codelabs/basic-android-kotlin-compose-add-images#3
+  
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+N/A
